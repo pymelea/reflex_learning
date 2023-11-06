@@ -403,6 +403,12 @@ $tf/
 .idea/**/dbnavigator.xml
 .idea/**/dictionaries
 .idea/**/dynamic.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/reflex_init.iml
+.idea/reflex_init_copy.py
+.idea/vcs.xml
 .idea/**/gradle.xml
 .idea/**/libraries
 .idea/**/mongoSettings.xml
