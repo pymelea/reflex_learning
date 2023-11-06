@@ -403,12 +403,6 @@ $tf/
 .idea/**/dbnavigator.xml
 .idea/**/dictionaries
 .idea/**/dynamic.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/reflex_init.iml
-.idea/reflex_init_copy.py
-.idea/vcs.xml
 .idea/**/gradle.xml
 .idea/**/libraries
 .idea/**/mongoSettings.xml
@@ -420,8 +414,14 @@ $tf/
 .idea/**/workspace.xml
 .idea/caches/build_file_checksums.ser
 .idea/httpRequests
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/reflex_init.iml
+.idea/reflex_init_copy.py
 .idea/replstate.xml
 .idea/sonarlint/
+.idea/vcs.xml
 .idea_modules/
 .installed.cfg
 .ionide/
@@ -447,7 +447,6 @@ $tf/
 .vs/
 .vscode/*
 .vshistory/
-.web
 .webassets-cache
 .zcalc_history
 .zinit_lstupd
